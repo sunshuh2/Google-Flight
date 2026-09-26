@@ -1,0 +1,1096 @@
+[
+  [
+    {
+      "scrape_date": "2025-12-29T00:00:00.000Z",
+      "offer_snapshots": 322,
+      "distinct_offers": 322,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2025-12-30T00:00:00.000Z",
+      "offer_snapshots": 321,
+      "distinct_offers": 321,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-02T00:00:00.000Z",
+      "offer_snapshots": 308,
+      "distinct_offers": 308,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-05T00:00:00.000Z",
+      "offer_snapshots": 310,
+      "distinct_offers": 310,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-09T00:00:00.000Z",
+      "offer_snapshots": 308,
+      "distinct_offers": 308,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-12T00:00:00.000Z",
+      "offer_snapshots": 307,
+      "distinct_offers": 307,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-16T00:00:00.000Z",
+      "offer_snapshots": 300,
+      "distinct_offers": 300,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-19T00:00:00.000Z",
+      "offer_snapshots": 300,
+      "distinct_offers": 300,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-23T00:00:00.000Z",
+      "offer_snapshots": 299,
+      "distinct_offers": 299,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-26T00:00:00.000Z",
+      "offer_snapshots": 299,
+      "distinct_offers": 299,
+      "routes": 2
+    },
+    {
+      "scrape_date": "2026-01-30T00:00:00.000Z",
+      "offer_snapshots": 361,
+      "distinct_offers": 361,
+      "routes": 2
+    }
+  ],
+  [
+    {
+      "cabin_class": "Economy",
+      "booking_window": "0-7",
+      "offer_snapshots": 72,
+      "average_price": "519.24",
+      "median_price": 438,
+      "p25": 341,
+      "p75": 458
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "8-14",
+      "offer_snapshots": 145,
+      "average_price": "350.95",
+      "median_price": 361,
+      "p25": 314,
+      "p75": 384
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "15-21",
+      "offer_snapshots": 137,
+      "average_price": "294.02",
+      "median_price": 271,
+      "p25": 268,
+      "p75": 317
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "22-30",
+      "offer_snapshots": 163,
+      "average_price": "256.82",
+      "median_price": 255,
+      "p25": 253,
+      "p75": 258
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "31+",
+      "offer_snapshots": 254,
+      "average_price": "252.23",
+      "median_price": 253,
+      "p25": 241,
+      "p75": 256
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-7",
+      "offer_snapshots": 161,
+      "average_price": "539.52",
+      "median_price": 314,
+      "p25": 314,
+      "p75": 811
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "8-14",
+      "offer_snapshots": 294,
+      "average_price": "281.94",
+      "median_price": 260,
+      "p25": 222.25,
+      "p75": 265
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-21",
+      "offer_snapshots": 288,
+      "average_price": "226.08",
+      "median_price": 251,
+      "p25": 152,
+      "p75": 251
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "22-30",
+      "offer_snapshots": 371,
+      "average_price": "168.80",
+      "median_price": 124,
+      "p25": 124,
+      "p75": 221
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "offer_snapshots": 514,
+      "average_price": "180.75",
+      "median_price": 134,
+      "p25": 124,
+      "p75": 211
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-7",
+      "offer_snapshots": 77,
+      "average_price": "1202.26",
+      "median_price": 1446,
+      "p25": 619,
+      "p75": 1491
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "8-14",
+      "offer_snapshots": 170,
+      "average_price": "1118.14",
+      "median_price": 1189,
+      "p25": 552.25,
+      "p75": 1471.5
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-21",
+      "offer_snapshots": 177,
+      "average_price": "960.02",
+      "median_price": 1079,
+      "p25": 524,
+      "p75": 1339
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "22-30",
+      "offer_snapshots": 251,
+      "average_price": "783.89",
+      "median_price": 598,
+      "p25": 420,
+      "p75": 947
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "offer_snapshots": 361,
+      "average_price": "769.53",
+      "median_price": 564,
+      "p25": 432,
+      "p75": 947
+    }
+  ],
+  [
+    {
+      "cabin_class": "Economy",
+      "booking_window": "0-7",
+      "matched_transitions": 42,
+      "distinct_offers": 37,
+      "increases": 39,
+      "decreases": 0,
+      "unchanged": 3,
+      "median_change": 34.5,
+      "median_percent_change": 9.435
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "8-14",
+      "matched_transitions": 92,
+      "distinct_offers": 54,
+      "increases": 74,
+      "decreases": 12,
+      "unchanged": 6,
+      "median_change": 14,
+      "median_percent_change": 3.79
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "15-21",
+      "matched_transitions": 85,
+      "distinct_offers": 57,
+      "increases": 40,
+      "decreases": 27,
+      "unchanged": 18,
+      "median_change": 0,
+      "median_percent_change": 0
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "22-30",
+      "matched_transitions": 111,
+      "distinct_offers": 52,
+      "increases": 27,
+      "decreases": 57,
+      "unchanged": 27,
+      "median_change": -3,
+      "median_percent_change": -1.09
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "31+",
+      "matched_transitions": 139,
+      "distinct_offers": 80,
+      "increases": 41,
+      "decreases": 22,
+      "unchanged": 76,
+      "median_change": 0,
+      "median_percent_change": 0
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-7",
+      "matched_transitions": 95,
+      "distinct_offers": 90,
+      "increases": 84,
+      "decreases": 1,
+      "unchanged": 10,
+      "median_change": 49,
+      "median_percent_change": 18.49
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "8-14",
+      "matched_transitions": 255,
+      "distinct_offers": 136,
+      "increases": 197,
+      "decreases": 36,
+      "unchanged": 22,
+      "median_change": 9,
+      "median_percent_change": 3.59
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-21",
+      "matched_transitions": 259,
+      "distinct_offers": 133,
+      "increases": 147,
+      "decreases": 47,
+      "unchanged": 65,
+      "median_change": 9,
+      "median_percent_change": 3.59
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "22-30",
+      "matched_transitions": 349,
+      "distinct_offers": 141,
+      "increases": 95,
+      "decreases": 113,
+      "unchanged": 141,
+      "median_change": 0,
+      "median_percent_change": 0
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "matched_transitions": 340,
+      "distinct_offers": 143,
+      "increases": 118,
+      "decreases": 80,
+      "unchanged": 142,
+      "median_change": 0,
+      "median_percent_change": 0
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-7",
+      "matched_transitions": 62,
+      "distinct_offers": 52,
+      "increases": 37,
+      "decreases": 25,
+      "unchanged": 0,
+      "median_change": 8.5,
+      "median_percent_change": 0.81
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "8-14",
+      "matched_transitions": 153,
+      "distinct_offers": 79,
+      "increases": 120,
+      "decreases": 11,
+      "unchanged": 22,
+      "median_change": 45,
+      "median_percent_change": 6.72
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-21",
+      "matched_transitions": 169,
+      "distinct_offers": 88,
+      "increases": 90,
+      "decreases": 19,
+      "unchanged": 60,
+      "median_change": 7,
+      "median_percent_change": 1.99
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "22-30",
+      "matched_transitions": 232,
+      "distinct_offers": 97,
+      "increases": 50,
+      "decreases": 26,
+      "unchanged": 156,
+      "median_change": 0,
+      "median_percent_change": 0
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "matched_transitions": 244,
+      "distinct_offers": 102,
+      "increases": 87,
+      "decreases": 25,
+      "unchanged": 132,
+      "median_change": 0,
+      "median_percent_change": 0
+    }
+  ],
+  [
+    {
+      "cabin_class": "Economy",
+      "offers": 169,
+      "median_days_in_advance": 28,
+      "median_lowest_price": 255
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "offers": 264,
+      "median_days_in_advance": 28,
+      "median_lowest_price": 153.5
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "offers": 152,
+      "median_days_in_advance": 32.5,
+      "median_lowest_price": 570
+    }
+  ],
+  [
+    {
+      "cabin_class": "Economy",
+      "booking_window": "0-14",
+      "carrier_signature": "WS",
+      "offer_snapshots": 83,
+      "offers": 42,
+      "median_price": 320
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "0-14",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 51,
+      "offers": 20,
+      "median_price": 383
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "0-14",
+      "carrier_signature": "AC",
+      "offer_snapshots": 76,
+      "offers": 53,
+      "median_price": 390
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "0-14",
+      "carrier_signature": "AC(Jazz)",
+      "offer_snapshots": 5,
+      "offers": 4,
+      "median_price": 454
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "15-30",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 78,
+      "offers": 21,
+      "median_price": 253
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "15-30",
+      "carrier_signature": "AC",
+      "offer_snapshots": 148,
+      "offers": 67,
+      "median_price": 258
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "15-30",
+      "carrier_signature": "WS",
+      "offer_snapshots": 72,
+      "offers": 33,
+      "median_price": 268
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "31+",
+      "carrier_signature": "WS",
+      "offer_snapshots": 100,
+      "offers": 42,
+      "median_price": 241
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "31+",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 58,
+      "offers": 17,
+      "median_price": 250
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "31+",
+      "carrier_signature": "AC",
+      "offer_snapshots": 96,
+      "offers": 51,
+      "median_price": 256
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-14",
+      "carrier_signature": "F8",
+      "offer_snapshots": 31,
+      "offers": 11,
+      "median_price": 160
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-14",
+      "carrier_signature": "WS",
+      "offer_snapshots": 95,
+      "offers": 52,
+      "median_price": 226
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-14",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 63,
+      "offers": 29,
+      "median_price": 264
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-14",
+      "carrier_signature": "AC",
+      "offer_snapshots": 242,
+      "offers": 119,
+      "median_price": 265
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-14",
+      "carrier_signature": "AC(Jazz)",
+      "offer_snapshots": 23,
+      "offers": 17,
+      "median_price": 364
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-30",
+      "carrier_signature": "F8",
+      "offer_snapshots": 60,
+      "offers": 15,
+      "median_price": 85
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-30",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 95,
+      "offers": 21,
+      "median_price": 134
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-30",
+      "carrier_signature": "WS",
+      "offer_snapshots": 119,
+      "offers": 32,
+      "median_price": 134
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-30",
+      "carrier_signature": "AC(Jazz)",
+      "offer_snapshots": 32,
+      "offers": 19,
+      "median_price": 207
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-30",
+      "carrier_signature": "AC",
+      "offer_snapshots": 352,
+      "offers": 85,
+      "median_price": 221
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "carrier_signature": "F8",
+      "offer_snapshots": 54,
+      "offers": 15,
+      "median_price": 85
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "carrier_signature": "WS",
+      "offer_snapshots": 85,
+      "offers": 26,
+      "median_price": 124
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 75,
+      "offers": 21,
+      "median_price": 131
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "carrier_signature": "AC",
+      "offer_snapshots": 275,
+      "offers": 91,
+      "median_price": 134
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "carrier_signature": "AC(Jazz)",
+      "offer_snapshots": 25,
+      "offers": 8,
+      "median_price": 204
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-14",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 57,
+      "offers": 20,
+      "median_price": 456
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-14",
+      "carrier_signature": "WS(Encore)",
+      "offer_snapshots": 3,
+      "offers": 3,
+      "median_price": 511
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-14",
+      "carrier_signature": "WS",
+      "offer_snapshots": 58,
+      "offers": 34,
+      "median_price": 617
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-14",
+      "carrier_signature": "AC",
+      "offer_snapshots": 106,
+      "offers": 39,
+      "median_price": 1446
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-14",
+      "carrier_signature": "AC(Jazz)",
+      "offer_snapshots": 23,
+      "offers": 13,
+      "median_price": 1479
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-30",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 95,
+      "offers": 21,
+      "median_price": 358
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-30",
+      "carrier_signature": "WS(Encore)",
+      "offer_snapshots": 7,
+      "offers": 6,
+      "median_price": 416
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-30",
+      "carrier_signature": "WS",
+      "offer_snapshots": 128,
+      "offers": 42,
+      "median_price": 552
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-30",
+      "carrier_signature": "AC(Jazz)",
+      "offer_snapshots": 32,
+      "offers": 7,
+      "median_price": 947
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-30",
+      "carrier_signature": "AC",
+      "offer_snapshots": 165,
+      "offers": 37,
+      "median_price": 1243
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "carrier_signature": "PD,TS",
+      "offer_snapshots": 75,
+      "offers": 21,
+      "median_price": 346
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "carrier_signature": "WS",
+      "offer_snapshots": 125,
+      "offers": 44,
+      "median_price": 432
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "carrier_signature": "WS(Encore)",
+      "offer_snapshots": 9,
+      "offers": 5,
+      "median_price": 481
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "carrier_signature": "AC",
+      "offer_snapshots": 128,
+      "offers": 36,
+      "median_price": 910
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "carrier_signature": "AC(Jazz)",
+      "offer_snapshots": 24,
+      "offers": 7,
+      "median_price": 947
+    }
+  ],
+  [
+    {
+      "cabin_class": "Economy",
+      "itinerary_type": "connecting",
+      "booking_window": "0-14",
+      "offer_snapshots": 43,
+      "median_price": 320
+    },
+    {
+      "cabin_class": "Economy",
+      "itinerary_type": "connecting",
+      "booking_window": "15-30",
+      "offer_snapshots": 23,
+      "median_price": 270
+    },
+    {
+      "cabin_class": "Economy",
+      "itinerary_type": "connecting",
+      "booking_window": "31+",
+      "offer_snapshots": 52,
+      "median_price": 241
+    },
+    {
+      "cabin_class": "Economy",
+      "itinerary_type": "direct",
+      "booking_window": "0-14",
+      "offer_snapshots": 174,
+      "median_price": 383
+    },
+    {
+      "cabin_class": "Economy",
+      "itinerary_type": "direct",
+      "booking_window": "15-30",
+      "offer_snapshots": 277,
+      "median_price": 258
+    },
+    {
+      "cabin_class": "Economy",
+      "itinerary_type": "direct",
+      "booking_window": "31+",
+      "offer_snapshots": 202,
+      "median_price": 255
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "itinerary_type": "connecting",
+      "booking_window": "0-14",
+      "offer_snapshots": 39,
+      "median_price": 358
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "itinerary_type": "connecting",
+      "booking_window": "15-30",
+      "offer_snapshots": 38,
+      "median_price": 197
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "itinerary_type": "connecting",
+      "booking_window": "31+",
+      "offer_snapshots": 25,
+      "median_price": 204
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "itinerary_type": "direct",
+      "booking_window": "0-14",
+      "offer_snapshots": 416,
+      "median_price": 265
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "itinerary_type": "direct",
+      "booking_window": "15-30",
+      "offer_snapshots": 621,
+      "median_price": 152
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "itinerary_type": "direct",
+      "booking_window": "31+",
+      "offer_snapshots": 489,
+      "median_price": 134
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "itinerary_type": "connecting",
+      "booking_window": "0-14",
+      "offer_snapshots": 50,
+      "median_price": 1313.5
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "itinerary_type": "connecting",
+      "booking_window": "15-30",
+      "offer_snapshots": 85,
+      "median_price": 752
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "itinerary_type": "connecting",
+      "booking_window": "31+",
+      "offer_snapshots": 79,
+      "median_price": 497
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "itinerary_type": "direct",
+      "booking_window": "0-14",
+      "offer_snapshots": 197,
+      "median_price": 1429
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "itinerary_type": "direct",
+      "booking_window": "15-30",
+      "offer_snapshots": 343,
+      "median_price": 910
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "itinerary_type": "direct",
+      "booking_window": "31+",
+      "offer_snapshots": 282,
+      "median_price": 906
+    }
+  ],
+  [
+    {
+      "offer_id": 187,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-02T14:15:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "420.00",
+      "highest_price": "1729.00",
+      "price_range": "1309.00"
+    },
+    {
+      "offer_id": 461,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-05T23:15:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "420.00",
+      "highest_price": "1729.00",
+      "price_range": "1309.00"
+    },
+    {
+      "offer_id": 353,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-01T23:15:00.000Z",
+      "scrape_count": 7,
+      "lowest_price": "420.00",
+      "highest_price": "1723.00",
+      "price_range": "1303.00"
+    },
+    {
+      "offer_id": 248,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-03T10:45:00.000Z",
+      "scrape_count": 6,
+      "lowest_price": "420.00",
+      "highest_price": "1723.00",
+      "price_range": "1303.00"
+    },
+    {
+      "offer_id": 133,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-03T23:15:00.000Z",
+      "scrape_count": 6,
+      "lowest_price": "420.00",
+      "highest_price": "1723.00",
+      "price_range": "1303.00"
+    },
+    {
+      "offer_id": 34,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-08T10:45:00.000Z",
+      "scrape_count": 5,
+      "lowest_price": "432.00",
+      "highest_price": "1723.00",
+      "price_range": "1291.00"
+    },
+    {
+      "offer_id": 391,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-07T04:30:00.000Z",
+      "scrape_count": 7,
+      "lowest_price": "598.00",
+      "highest_price": "1729.00",
+      "price_range": "1131.00"
+    },
+    {
+      "offer_id": 528,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-05T12:20:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "906.00",
+      "highest_price": "1994.00",
+      "price_range": "1088.00"
+    },
+    {
+      "offer_id": 92,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-08T09:55:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "906.00",
+      "highest_price": "1994.00",
+      "price_range": "1088.00"
+    },
+    {
+      "offer_id": 2,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-08T01:00:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "906.00",
+      "highest_price": "1994.00",
+      "price_range": "1088.00"
+    },
+    {
+      "offer_id": 71,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-02T01:00:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "910.00",
+      "highest_price": "1994.00",
+      "price_range": "1084.00"
+    },
+    {
+      "offer_id": 211,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-06T00:00:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "906.00",
+      "highest_price": "1989.00",
+      "price_range": "1083.00"
+    },
+    {
+      "offer_id": 322,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-05T00:00:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "906.00",
+      "highest_price": "1989.00",
+      "price_range": "1083.00"
+    },
+    {
+      "offer_id": 439,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-03T02:00:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "906.00",
+      "highest_price": "1989.00",
+      "price_range": "1083.00"
+    },
+    {
+      "offer_id": 227,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-06T10:45:00.000Z",
+      "scrape_count": 7,
+      "lowest_price": "906.00",
+      "highest_price": "1989.00",
+      "price_range": "1083.00"
+    },
+    {
+      "offer_id": 484,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-06T10:45:00.000Z",
+      "scrape_count": 7,
+      "lowest_price": "736.00",
+      "highest_price": "1723.00",
+      "price_range": "987.00"
+    },
+    {
+      "offer_id": 260,
+      "cabin_class": "Economy",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-02T01:00:00.000Z",
+      "scrape_count": 4,
+      "lowest_price": "259.00",
+      "highest_price": "1055.00",
+      "price_range": "796.00"
+    },
+    {
+      "offer_id": 351,
+      "cabin_class": "Economy",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-01T23:15:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "241.00",
+      "highest_price": "1032.00",
+      "price_range": "791.00"
+    },
+    {
+      "offer_id": 573,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-07T10:45:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "420.00",
+      "highest_price": "1189.00",
+      "price_range": "769.00"
+    },
+    {
+      "offer_id": 453,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-08T14:15:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "420.00",
+      "highest_price": "1189.00",
+      "price_range": "769.00"
+    },
+    {
+      "offer_id": 417,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "WS",
+      "departure_at": "2026-02-02T10:45:00.000Z",
+      "scrape_count": 10,
+      "lowest_price": "420.00",
+      "highest_price": "1189.00",
+      "price_range": "769.00"
+    },
+    {
+      "offer_id": 516,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-05T01:00:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "1239.00",
+      "highest_price": "1994.00",
+      "price_range": "755.00"
+    },
+    {
+      "offer_id": 397,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-05T10:45:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "1239.00",
+      "highest_price": "1994.00",
+      "price_range": "755.00"
+    },
+    {
+      "offer_id": 151,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-04T01:00:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "1239.00",
+      "highest_price": "1994.00",
+      "price_range": "755.00"
+    },
+    {
+      "offer_id": 212,
+      "cabin_class": "Economy(Premium)",
+      "carrier_signature": "AC",
+      "departure_at": "2026-02-04T10:45:00.000Z",
+      "scrape_count": 11,
+      "lowest_price": "1239.00",
+      "highest_price": "1994.00",
+      "price_range": "755.00"
+    }
+  ]
+]

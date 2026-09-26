@@ -1,0 +1,29 @@
+{
+  "source_sha256": "f3c960e844bb0558e8220b3096e16e5bf1a8233825ba2c2f92c15c3870f2ed46",
+  "data_rows": 3631,
+  "repeated_headers": 2,
+  "extra_exact_duplicates": 88,
+  "distinct_observations": 3543,
+  "offers": 585,
+  "original_key_collision_groups": 145,
+  "original_key_groups_with_multiple_prices": 145,
+  "offer_date_groups_with_multiple_prices": 108,
+  "collection_dates": [
+    "2025-12-29",
+    "2025-12-30",
+    "2026-01-02",
+    "2026-01-05",
+    "2026-01-09",
+    "2026-01-12",
+    "2026-01-16",
+    "2026-01-19",
+    "2026-01-23",
+    "2026-01-26",
+    "2026-01-30"
+  ],
+  "observations_by_class": {
+    "Economy": 801,
+    "Economy(Basic)": 1683,
+    "Economy(Premium)": 1059
+  }
+}

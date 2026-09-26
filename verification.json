@@ -1,0 +1,155 @@
+{
+  "runtime": "PostgreSQL 18.3 (PGlite 0.5.8) on wasm32-unknown-emscripten, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
+  "counts": {
+    "offers": 585,
+    "observations": 3543,
+    "dates": 11
+  },
+  "passed": [
+    "all SQL files executed",
+    "repeat load unchanged",
+    "invalid load rolled back",
+    "junction consistency",
+    "108 multiple-price groups preserved",
+    "no collection gaps bridged",
+    "carrier, baggage, connection and price variants preserved",
+    "malformed counts/dates/prices rejected"
+  ],
+  "movements": [
+    {
+      "cabin_class": "Economy",
+      "booking_window": "0-7",
+      "transitions": 42,
+      "increases": 39,
+      "decreases": 0,
+      "unchanged": 3,
+      "median_change": 34.5
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "8-14",
+      "transitions": 92,
+      "increases": 74,
+      "decreases": 12,
+      "unchanged": 6,
+      "median_change": 14
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "15-21",
+      "transitions": 85,
+      "increases": 40,
+      "decreases": 27,
+      "unchanged": 18,
+      "median_change": 0
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "22-30",
+      "transitions": 111,
+      "increases": 27,
+      "decreases": 57,
+      "unchanged": 27,
+      "median_change": -3
+    },
+    {
+      "cabin_class": "Economy",
+      "booking_window": "31+",
+      "transitions": 139,
+      "increases": 41,
+      "decreases": 22,
+      "unchanged": 76,
+      "median_change": 0
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "0-7",
+      "transitions": 95,
+      "increases": 84,
+      "decreases": 1,
+      "unchanged": 10,
+      "median_change": 49
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "8-14",
+      "transitions": 255,
+      "increases": 197,
+      "decreases": 36,
+      "unchanged": 22,
+      "median_change": 9
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "15-21",
+      "transitions": 259,
+      "increases": 147,
+      "decreases": 47,
+      "unchanged": 65,
+      "median_change": 9
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "22-30",
+      "transitions": 349,
+      "increases": 95,
+      "decreases": 113,
+      "unchanged": 141,
+      "median_change": 0
+    },
+    {
+      "cabin_class": "Economy(Basic)",
+      "booking_window": "31+",
+      "transitions": 340,
+      "increases": 118,
+      "decreases": 80,
+      "unchanged": 142,
+      "median_change": 0
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "0-7",
+      "transitions": 62,
+      "increases": 37,
+      "decreases": 25,
+      "unchanged": 0,
+      "median_change": 8.5
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "8-14",
+      "transitions": 153,
+      "increases": 120,
+      "decreases": 11,
+      "unchanged": 22,
+      "median_change": 45
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "15-21",
+      "transitions": 169,
+      "increases": 90,
+      "decreases": 19,
+      "unchanged": 60,
+      "median_change": 7
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "22-30",
+      "transitions": 232,
+      "increases": 50,
+      "decreases": 26,
+      "unchanged": 156,
+      "median_change": 0
+    },
+    {
+      "cabin_class": "Economy(Premium)",
+      "booking_window": "31+",
+      "transitions": 244,
+      "increases": 87,
+      "decreases": 25,
+      "unchanged": 132,
+      "median_change": 0
+    }
+  ]
+}
